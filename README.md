@@ -36,3 +36,12 @@ Cinematic video generation with built-in sound and music.
 Skip 5+ monthly subscriptions. Pay per use across every model with one API.
 
 ⭐ Star this repo if it helped you discover a new model!
+
+---
+
+## 📚 Related
+
+- 🌐 Platform: https://xinghuo1300ai.com
+- 📝 Dev.to article (@lijingbig): https://dev.to/lijingbig/i-replaced-5-separate-ai-subscriptions-with-one-dashboard-heres-the-full-breakdown-16ge
+- 📝 Dev.to article (@caicaibigtige): https://dev.to/caicaibigtige/from-novel-to-shoot-ready-screenplay-inside-the-ai-screenwriting-studio-video-pipeline-2p08
+- 💻 Mirror repo: https://github.com/caicaibig-tige/ai-model-hub
